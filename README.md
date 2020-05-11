@@ -4,4 +4,9 @@
 
 ## Run Comman on Windows
 
-`python find-meteors.py`
+First install pipenv. Then run the script.
+
+```
+pipenv install
+pipenv run "python find-meteors.py"
+```
